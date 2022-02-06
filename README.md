@@ -1,20 +1,22 @@
-<div align="center">
-  <a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://i.ibb.co/mNFxB0T/f23a50dd-cd79-4603-b3ab-01c392468563.jpg" alt="Cara" border="0" style="width:380px;height:160px;"></a>
 
-# <h1><er>Cara is a modified version of <a href="https://github.com/ShineiIchijo/Chitoge">Chitoge</er></a></h1>
+<div align="center">
+<a href="https://www.linkpicture.com/view.php?img=LPic6170f1a91eb90287883190"><img src="https://www.linkpicture.com/q/IMG-20211021-WA0157.jpg" type="image"></a>
+  
+
+# <h1><er>DkHitman is a modified version of <a href="https://github.com/ShineiIchijo/Chitoge">Chitoge</er></a></h1>
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/I4m8zLPwTme9II9aZWRZJ1)<br> [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) <br>[![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/hitman47/Cara_public)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/iamherok/cara-punlic-noerror)
 
 </div>
 <div align="center">
-<h1>Cara is full of Anime and Nsfw and many more features</h1>
+<h1>DK hitman is full of Anime and Nsfw and many more features</h1>
 </div>
 
-## 🍃 Official group-> http://gg.gg/Arus-Das-cara
+## 🍃 Official group-> https://chat.whatsapp.com/JQiAOFypdm04PNBfvPINlh
 
 ## ✨ Highlights
 
