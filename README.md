@@ -9,7 +9,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/iamherok/cara-punlic-noerror)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/RaysenpaiBackup/hitman47)
 
 </div>
 <div align="center">
