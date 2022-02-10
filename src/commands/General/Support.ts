@@ -20,9 +20,10 @@ export default class Command extends BaseCommand {
         (await this.client.sendMessage(
         M.sender.jid,
         `    ♥️MY office GROUP🌻
-              Join the group chat 
-       *👾 Hitman47 support:👾* *https://chat.whatsapp.com/JQiAOFypdm04PNBfvPINlh*
-        *😈support😈* INVITE LINK🎉:*https://chat.whatsapp.com/JQiAOFypdm04PNBfvPINlh*`,
+              🌻Join the group🌻
+              👾have some fun👾
+    *👾 Hitman47 support:👾* *https://chat.whatsapp.com/ChvkiST07BKGSgjX71nWQO*
+        *😈support😈* INVITE LINK🎉:*https://chat.whatsapp.com/ChvkiST07BKGSgjX71nWQO*`,
            MessageType.text
         ))
         const n = [
