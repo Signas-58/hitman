@@ -8,7 +8,7 @@ export default class Command extends BaseCommand {
         super(client, handler, {
             command: 'guide',
             description: 'Lists All Kaoi Guides',
-            category: 'bots',
+            category: 'coding',
             usage: `${client.config.prefix}guide`,
             baseXp: 200
         })
