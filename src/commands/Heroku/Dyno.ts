@@ -26,8 +26,8 @@ export default class Command extends BaseCommand {
     }
 
     run = async (M: ISimplifiedMessage): Promise<void> => {
-    //if (!this.client.config.hapi) return void M.reply("No heroku API key set");
-    //if (!this.client.config.hname) return void M.reply("No heroku name set");
+    //if (!this.client.config.hapi) return void M.reply("25538e6e-036b-4b05-b328-0c1597eb15f7");
+    //if (!this.client.config.hname) return void M.reply("hitmann");
 
     heroku.get('/account').then(async (account: any) => {
        const url = "https://api.heroku.com/accounts/" + account.id + "/actions/get-quota"
