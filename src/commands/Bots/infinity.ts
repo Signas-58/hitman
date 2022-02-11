@@ -8,7 +8,7 @@ export default class Command extends BaseCommand {
         super(client, handler, {
             command: 'infinity',
             description: 'Displays the info',
-            category: 'bots',
+            category: 'coding',
             usage: `${client.config.prefix}infinity`,
             baseXp: 100
         })
