@@ -47,10 +47,10 @@ export default class Command extends BaseCommand {
 				user.split("@")[0]
 			}*, 𝐈'𝐦 𝐡𝐢𝐭𝐦𝐚𝐧47𝐚 𝐛𝐨𝐭 𝐛𝐮𝐢𝐥𝐭 𝐭𝐨 𝐦𝐚𝐤𝐞 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐞𝐧𝐣𝐨𝐲𝐚𝐛𝐥𝐞🌻.\n\nMy prefix is - "${
 				this.client.config.prefix
-			}"\n\n*╚『•My Cmd List•』╝*.\n\n`;
+			}"\n\n*╚『•My 𝐡𝐢𝐭𝐦𝐚𝐧47 List•』╝*.\n\n`;
 			const keys = Object.keys(categories);
 			for (const key of keys)
-				text += `*╚━❰😈${this.client.util.capitalize(
+				text += `*╚━❰🌻${this.client.util.capitalize(
 					key
 				)} ❱━╝*\n❐ \`\`\`${categories[key]
 					.map((command) => command.config?.command)
@@ -62,7 +62,7 @@ export default class Command extends BaseCommand {
 				{
 					quoted: M.WAMessage,
 					mimetype: Mimetype.gif,
-					caption: `${text} 🔥 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*`,
+					caption: `${text} ❤ *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*`,
 					contextInfo: { mentionedJid: [user] },
 				}
 			);
