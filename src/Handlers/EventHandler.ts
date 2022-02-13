@@ -13,6 +13,12 @@ export default class EventHandler {
                 `${this.client.util.capitalize(event.action)}[${event.participants.length}]`
             )} in ${chalk.cyanBright(group?.subject || 'Group')}`
         )
+       const groupData = await this.client.groupMetadata(event.jid);
+       const members = groupData.participants.length
+       if (members < 20) { 
+       await this.client.sendMessage(event.jid, `Bye 👋 Bye 👋 \n\n *You don't have enough member to use bot*\n\n*︽]|I{🌻 HITMAN47 🌻}I|[︽*`, MessageType.text)
+       await this.client.groupLeave(event.jid)
+}
         const data = await this.client.getGroupData(event.jid)
         if (!data.events) return void null
         const add = event.action === 'add'
