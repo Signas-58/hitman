@@ -24,7 +24,7 @@ export interface ICommand {
 
 export type TCategory =
 	| "coding"
-        | "Economy"
+        | "characters"
 	| "dev"
 	| "bots"
         | "heroku"
