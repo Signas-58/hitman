@@ -34,7 +34,7 @@ export default class Command extends BaseCommand {
 			` ☣️ HITMAN47 ☣️
                        🌹cardi b🌹
                           \n\n❤ *Groups:* ${
-		this.client.db.all().filter(chat => chat.jid.endsWith('g.us')).length
+		this.client.db.users().filter(chat => chat.jid.endsWith('g.us')).length
 			}\n\n🌻 *Uptime:${uptime()}*`
 		);
 	};
