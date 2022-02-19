@@ -31,11 +31,11 @@ export default class Command extends BaseCommand {
 		};
 		const uptime = () => formatTime(process.uptime());
 		await M.reply(
-			` 🌻 HITMAN47 🌻 
-                           🌹cardi b🌹
-                          \n\n🌷 *Groups:* ${
-		this.client.chats.all().filter(chat => chat.jid.endsWith('g.us')).length
-			}\n\n✓ *Uptime:${uptime()}*`
+			` ☣️ HITMAN47 ☣️
+                       🌹cardi b🌹
+                          \n\n❤ *Groups:* ${
+		this.client.db.all().filter(chat => chat.jid.endsWith('g.us')).length
+			}\n\n🌻 *Uptime:${uptime()}*`
 		);
 	};
 }
