@@ -1,3 +1,4 @@
+
 import { MessageType, Mimetype } from '@adiwajshing/baileys'
 import MessageHandler from '../../Handlers/MessageHandler'
 import BaseCommand from '../../lib/BaseCommand'
@@ -27,7 +28,7 @@ export default class Command extends BaseCommand {
            MessageType.text
         ))
         const n = [
-                   "https://telegra.ph/file/50611db4fd9454f694302.mp4";
+            './assets/videos/BeckyLynch/becky.git.mp4'
         ]
         let beckylynch = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url:beckylynch }, MessageType.video, {quoted:M.WAMessage,
