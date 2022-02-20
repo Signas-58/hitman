@@ -34,8 +34,8 @@ export default class Command extends BaseCommand {
 			"https://wallpapercave.com/w/wp10318669.jpg",
 			"https://wallpapercave.com/w/wp10318667.jpg",
 			"https://wallpapercave.com/w/wp10318653.jpg",
-			"https://media.tenor.com/videos/9eda38308ee0b60c51962dde63d203c7/mp4",
-			"https://media.tenor.com/videos/f4c3cd17a4348142d254a1f5f206a0d7/mp4",
+			"https://telegra.ph/file/2b3d78dee4372dafea70f.mp4",
+			"https://telegra.ph/file/50611db4fd9454f694302.mp4",
 		];
 		const selected = gifs[Math.floor(Math.random() * gifs.length)];
 		// eslint-disable-next-line @typescript-eslint/no-explicit-any
