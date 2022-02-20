@@ -43,10 +43,10 @@ export default class Command extends BaseCommand {
 					categories[info.config.category].push(info);
 				}
 			}
-			let text = `👩🏻‍🦰 Hey! *@${
+			let text = `❤ Hey! *@${
 				user.split("@")[0]
 			}
-                        *, *----------(•Note 📜 Side•)-----------* \n\n *Read the Rules* \n My name is 𝐡𝐢𝐭𝐦𝐚𝐧47☣️ \n My prefix is "${this.client.config.prefix}" \n 1. *Don't Call* bots to avoid blocking \n 2. *Don't Spam* is the group & Pm to avoid blocking 
+                        *, *---(•Note 📜 Side•)---* \n\n *Read the Rules* \n My name is 𝐡𝐢𝐭𝐦𝐚𝐧47☣️ \n My prefix is "${this.client.config.prefix}" \n 1. *Don't Call* bots to avoid blocking \n 2. *Don't Spam* is the group & Pm to avoid blocking 
 				\n\n*╚『•My 𝐡𝐢𝐭𝐦𝐚𝐧47 List•』╝*.\n\n`;
 			const keys = Object.keys(categories);
 			for (const key of keys)
