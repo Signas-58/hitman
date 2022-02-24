@@ -34,9 +34,9 @@ export default class Command extends BaseCommand {
 		const users = this.client.DB.user.count();
                 const uptime = () => formatTime(process.uptime());
 		await M.reply(
-			`*━━━❰ 💙 Hitman47 ❤️ ❱━━━*\n\n🔮 *Groups: ${
+			`*━━━❰ ☣️ Hitman47 ☣️ ❱━━━*\n\n😻🚀 *Groups: ${
 				chats.length
-			}*\n\n🚦 *Uptime: ${uptime()}*\n\n 🧧 *Users: ${users.count()}*`
+			}*\n\n🚦 *Uptime: ${uptime()}*\n\n 😻🚀 *Users: ${users.count()}*`
 		);
 	};
 }
